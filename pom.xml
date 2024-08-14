@@ -417,7 +417,7 @@
 						<configuration>
 							<!-- this will get rid of version info from war file name This is 
 								for Eureka server -->
-							<finalName>helpdesk</finalName>
+							<finalName>devarCabs</finalName>
 							<fork>false</fork>
 						</configuration>
 					</plugin>
